@@ -16,3 +16,4 @@ Sometimes, in order to identify the MAC_Address of the bluetooth device, it won'
 
 `sudo apt-get install bluez-tools`  
 After this run `bt-device -l`, you will now see the device name along with mac_address.
+This will enable me to connect and pair by bluetooth headset without the need of a GUI as it should be in an i3 wm.
